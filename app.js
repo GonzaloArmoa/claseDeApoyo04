@@ -1,0 +1,1 @@
+const {forEach2} = require('./functions')
